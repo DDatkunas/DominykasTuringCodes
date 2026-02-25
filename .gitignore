@@ -1,3 +1,4 @@
-# ignore all sql files and txt files
+# ignore all sql files 
+# ignore all txt files
 *.sql
 *.txt
