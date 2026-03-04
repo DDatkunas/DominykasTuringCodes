@@ -1,3 +1,4 @@
 # ignore all sql and txt files
 *.sql
 *.txt
+pdpractice.py
