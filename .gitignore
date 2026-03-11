@@ -3,4 +3,4 @@
 *.txt
 pdpractice*
 *csv
-/.ibynb_checkpoints/
+.ipynb_checkpoints/
