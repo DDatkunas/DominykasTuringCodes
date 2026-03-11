@@ -2,7 +2,3 @@
 *.sql
 *.txt
 pdpractice.py
-pdpractice2.py
-pdpractice3.py
-.ipynb_checkpoints/
-*.csv
